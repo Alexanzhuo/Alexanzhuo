@@ -1,5 +1,5 @@
-# Anzhuo is my real name👋
-
+# Hi!👋
+Anzhuo is my real name
 <!--
 **Alexanzhuo/Alexanzhuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
